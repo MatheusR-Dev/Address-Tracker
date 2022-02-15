@@ -1,0 +1,1 @@
+export { Search } from '@styled-icons/bootstrap/Search'
